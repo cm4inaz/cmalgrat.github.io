@@ -1,0 +1,17 @@
+@charset "utf-8";
+.list_headings {
+    position: static;
+    list-style-type: armenian;
+    background-color: #33657E;
+    border-radius: 0px;
+    opacity: 1;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    left: 730px;
+    top: 125px;
+    list-style-position: inside;
+    text-align: left;
+    width: 557px;
+}
